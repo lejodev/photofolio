@@ -1,0 +1,27 @@
+.navigation {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  .logo {
+    font-family: "Lobster", cursive;
+    font-size: 4em;
+    padding-left: 30px;
+  }
+  .nav-bar {
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    .links {
+      padding-right: 30px;
+      width: 40%;
+      list-style: none;
+      display: flex;
+      justify-content: space-between;
+      .link {
+        font-size: 1.3em;
+        cursor: pointer;
+      }
+    }
+  }
+}
