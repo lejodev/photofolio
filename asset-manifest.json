@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/photofolio/static/css/main.398fe965.css",
+    "main.js": "/photofolio/static/js/main.56175666.js",
+    "static/js/787.d0207873.chunk.js": "/photofolio/static/js/787.d0207873.chunk.js",
+    "static/media/logo.svg": "/photofolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/photofolio/index.html",
+    "main.398fe965.css.map": "/photofolio/static/css/main.398fe965.css.map",
+    "main.56175666.js.map": "/photofolio/static/js/main.56175666.js.map",
+    "787.d0207873.chunk.js.map": "/photofolio/static/js/787.d0207873.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.398fe965.css",
+    "static/js/main.56175666.js"
+  ]
+}
